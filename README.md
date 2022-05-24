@@ -4,7 +4,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).  
 
 ## Home
-<img src="https://github.com/Vitap7/food-everywhere/blob/main/readme-img/home.png"/>  
+<img src="https://github.com/Vitap7/food-everywhere/blob/main/readme-img/home.png" alt="home"/>  
+
+
 ## Available Scripts
 
 In the project directory, you can run:
