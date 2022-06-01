@@ -106,7 +106,7 @@ const CreateContainer = () => {
           calories: calories,
           price: price,
           category: category,
-          qty: 1,
+          qty: 0,
         };
         saveItem(data);
         setIsLoading(false);
