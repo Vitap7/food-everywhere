@@ -4,7 +4,6 @@ export const actionType = {
   SET_CART_SHOW: "SET_CART_SHOW",
   SET_CART_ITEMS: "SET_CART_ITEMS",
   ALTER_ITEM: "ALTER_ITEM",
-  // SUB_ITEM: "SUB_ITEM",
 };
 
 const reducer = (state, action) => {
